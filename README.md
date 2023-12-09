@@ -1,6 +1,6 @@
 # Algorithm
 
-# How I learnt github
+# How did I learn github
 
 - **Create a GitHub account**
 - **Make a Repository on GitHub**
